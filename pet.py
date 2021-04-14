@@ -1,4 +1,4 @@
-class StatesOfPet:
+class Pet:
     name = ""
     color = ""
     fun = 101
